@@ -2,7 +2,8 @@
 
 This repository contains an example of how to integrate GitHub Actions with the JFrog Platform. The purpose of this repository is to provide an example of how to build and deploy an NPM package to the JFrog platform using GitHub Actions.
 
-## Getting Started
+## Getting Started 
+
 
 To use this example repository, you will need to have a JFrog account. If you do not have one, you can sign up for a free trial account at [www.jfrog.com](https://www.jfrog.com/).
 
